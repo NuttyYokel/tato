@@ -1,0 +1,8 @@
+@import 'reset';
+@import 'palette';
+@import 'fonts';
+@import 'elements';
+
+body {
+  background-color: $color_bg;
+}
